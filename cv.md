@@ -1,7 +1,4 @@
 
-
-&nbsp; &nbsp;<img src="Foto.jpg" width="15%">
-
 # Azaronok Anastasiya
 
 **Location:** Mogilev, Belarus (Open to Remote / Relocation)  
@@ -12,6 +9,7 @@
 ## Professional Skills
 - English level: B1
 - MS Excel — Advanced
+- Jira, Confluense
 - Bitrix24, SAP, 1C
 - Basic Python, HTML, CSS
 - Basic PostgreSQL
@@ -25,23 +23,22 @@
 - Visualized As-Is/To-Be processes in BPMN 2.0, described roles and interaction scenarios (Miro)
 - Analyzed diagrams, identified bottlenecks, and developed concepts for optimized processes (To-Be)
 - Prepared interface mockups to accelerate approvals between business and development (Figma, Canva)
-- Developed the project budget and participated in its management
 - Managed project risks, timelines, quality, and changes
 - Coordinated workflows: structured tasks, managed workload and scheduling (Agile, Kanban, Scrum)
 - Negotiated with business representatives: conducted interviews, clarified requirements, held demonstrations, and gathered feedback
 
 ### Business Analyst — LLC “HOMEPORTE”
 **February 2021 – September 2024**
+- Built predictive models (P&L, CF)
 - Prepared reports with detailed analysis of supply assurance, demand planning, and logistics risks
 - Automated and optimized reporting for departments (VLOOKUP, GETPIVOTDATA, Pivot Tables)
-- Built predictive models (P&L, CF)
 - Prepared presentations with commentary based on analytics
 - Cross-functional data consolidation: streamlining data flow from different departments to provide a holistic view of the company
 - Data collection and identification of areas of inefficiency
 
 ### Economist-Analyst — Foreign LLC “Mebelain”
 **September 2015 – February 2021**
-- Developed the company business plan; prepared P&L and CF reports
+- Construction of complex financial models based on three reporting forms (P&L, Cash Flow, Balance Sheet)
 - Planned and analyzed payroll costs
 - Analyzed and monitored financial indicators
 - Prepared financial reports and presentations for management; provided cost reduction recommendations
