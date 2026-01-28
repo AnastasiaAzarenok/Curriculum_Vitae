@@ -24,7 +24,7 @@
 - Prepared interface mockups and prototypes to accelerate alignment between business and development teams (Figma, Canva)
 - Visualized As-Is/To-Be processes in BPMN 2.0, described roles and interaction scenarios (Miro).
 - Conducted business interviews, clarified requirements, delivered demonstrations, and gathered feedback from stakeholders
-- Basic knowledge of Python, HTML, CSS, and PostgreSQL
+- Basic knowledge of Python, HTML, CSS, PostgreSQL
 - Experience working with GitHub for team collaboration and code management
 
 ### Business Analyst — LLC “HOMEPORTE”
