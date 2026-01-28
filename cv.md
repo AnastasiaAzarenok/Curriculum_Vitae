@@ -19,13 +19,13 @@
 
 ### Business Analyst — KrokIT Startup Accelerator
 **September 2024 – October 2025**
-- Gathered and documented requirements, prepared technical specifications for development, and coordinated them with stakeholders (User Stories, Acceptance Criteria)
-- Visualized As-Is/To-Be processes in BPMN 2.0, described roles and interaction scenarios (Miro)
-- Analyzed diagrams, identified bottlenecks, and developed concepts for optimized processes (To-Be)
-- Prepared interface mockups to accelerate approvals between business and development (Figma, Canva)
-- Managed project risks, timelines, quality, and changes
-- Coordinated workflows: structured tasks, managed workload and scheduling (Agile, Kanban, Scrum)
-- Negotiated with business representatives: conducted interviews, clarified requirements, held demonstrations, and gathered feedback
+- Collected and documented requirements, prepared technical specifications for development, and coordinated them with stakeholders (User Stories, Acceptance Criteria)
+- Coordinated team tasks, planned and monitored project timelines and changes, responsible for timely delivery and achievement of project goals
+- Prepared interface mockups and prototypes to accelerate alignment between business and development teams (Figma, Canva)
+- Visualized As-Is/To-Be processes in BPMN 2.0, described roles and interaction scenarios (Miro).
+- Conducted business interviews, clarified requirements, delivered demonstrations, and gathered feedback from stakeholders
+- Basic knowledge of Python, HTML, CSS, and PostgreSQL
+- Experience working with GitHub for team collaboration and code management
 
 ### Business Analyst — LLC “HOMEPORTE”
 **February 2021 – September 2024**
