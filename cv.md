@@ -19,7 +19,7 @@
 
 ### Business Analyst — KrokIT Startup Accelerator
 **September 2024 – October 2025**
-- Systematically gathered and documented requirements, prepared technical specifications for development, and coordinated them with stakeholders (User Stories, Acceptance Criteria)
+- Gathered and documented requirements, prepared technical specifications for development, and coordinated them with stakeholders (User Stories, Acceptance Criteria)
 - Visualized As-Is/To-Be processes in BPMN 2.0, described roles and interaction scenarios (Miro)
 - Analyzed diagrams, identified bottlenecks, and developed concepts for optimized processes (To-Be)
 - Prepared interface mockups to accelerate approvals between business and development (Figma, Canva)
@@ -29,12 +29,11 @@
 
 ### Business Analyst — LLC “HOMEPORTE”
 **February 2021 – September 2024**
-- Built predictive models (P&L, CF)
-- Prepared reports with detailed analysis of supply assurance, demand planning, and logistics risks
-- Automated and optimized reporting for departments (VLOOKUP, GETPIVOTDATA, Pivot Tables)
-- Prepared presentations with commentary based on analytics
-- Cross-functional data consolidation: streamlining data flow from different departments to provide a holistic view of the company
-- Data collection and identification of areas of inefficiency
+- Gathering, structuring, and analyzing requirements from key stakeholders to develop plans and support managerial decision-making
+- Project management: monitoring timelines, budgets, key metrics, managing risks, and adjusting plans in case of deviations
+- Coordinating cross-departmental collaboration within project activities
+- Preparing and automating management reporting to track project status and key performance indicators (VLOOKUP, GETPIVOTDATA, Pivot Tables)
+- Representing the company in client negotiations: presenting results and discussing project solutions
 
 ### Economist-Analyst — Foreign LLC “Mebelain”
 **September 2015 – February 2021**
@@ -43,8 +42,7 @@
 - Analyzed and monitored financial indicators
 - Prepared financial reports and presentations for management; provided cost reduction recommendations
 - Analyzed investment projects (NPV, IRR, PI, PP, DPP)
-- Conducted market analysis, cost calculation, and pricing
-- Prepared statistical reports for local statistical authorities
+- Conducted market analysis, cost calculation, and pricingggg
 - Prepared reports for the European Bank for Reconstruction and Development (EBRD) in accordance with IFRS
 
 ### Economist — OJSC “Mogilevoblresursy”
