@@ -9,7 +9,7 @@
 ## Professional Skills
 - English level: B1
 - MS Excel — Advanced
-- Jira, Confluense
+- Jira, Confluenсe
 - Bitrix24, SAP, 1C
 - Basic Python, HTML, CSS
 - Basic PostgreSQL
@@ -17,7 +17,7 @@
 
 ## Experience
 
-### Business Analyst — KrokIT Startup Accelerator
+### Business Analyst — KrokIT 
 **September 2024 – October 2025**
 - Collected and documented requirements, prepared technical specifications for development, and coordinated them with stakeholders (User Stories, Acceptance Criteria)
 - Coordinated team tasks, planned and monitored project timelines and changes, responsible for timely delivery and achievement of project goals
@@ -42,7 +42,7 @@
 - Analyzed and monitored financial indicators
 - Prepared financial reports and presentations for management; provided cost reduction recommendations
 - Analyzed investment projects (NPV, IRR, PI, PP, DPP)
-- Conducted market analysis, cost calculation, and pricingggg
+- Conducted market analysis, cost calculation, and pricing
 - Prepared reports for the European Bank for Reconstruction and Development (EBRD) in accordance with IFRS
 
 ### Economist — OJSC “Mogilevoblresursy”
