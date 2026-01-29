@@ -18,19 +18,19 @@
 ## Experience
 
 ### Business Analyst — KrokIT 
-**September 2024 – October 2025**
+**September 2024 – November 2025**
 - Collected and documented requirements, prepared technical specifications for development, and coordinated them with stakeholders (User Stories, Acceptance Criteria)
-- Coordinated team tasks, planned and monitored project timelines and changes, responsible for timely delivery and achievement of project goals
 - Prepared interface mockups and prototypes to accelerate alignment between business and development teams (Figma, Canva)
 - Visualized As-Is/To-Be processes in BPMN 2.0, described roles and interaction scenarios (Miro).
 - Conducted business interviews, clarified requirements, delivered demonstrations, and gathered feedback from stakeholders
+- Coordinated team tasks, planned and monitored project timelines and changes, responsible for timely delivery and achievement of project goals
 - Basic knowledge of Python, HTML, CSS, PostgreSQL
 - Experience working with GitHub for team collaboration and code management
 
 ### Business Analyst — LLC “HOMEPORTE”
 **February 2021 – September 2024**
 - Gathering, structuring, and analyzing requirements from key stakeholders to develop plans and support managerial decision-making
-- Project management: monitoring timelines, budgets, key metrics, managing risks, and adjusting plans in case of deviations
+- Project management: monitoring timelines, budgets, key metrics, managing risks, and adjusting plans in case of deviations (P&L, CF)
 - Coordinating cross-departmental collaboration within project activities
 - Preparing and automating management reporting to track project status and key performance indicators (VLOOKUP, GETPIVOTDATA, Pivot Tables)
 - Representing the company in client negotiations: presenting results and discussing project solutions
